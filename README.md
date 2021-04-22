@@ -1,2 +1,0 @@
-# trabalhojava
-trabalhojava para sexta
